@@ -1,0 +1,6 @@
+# datos y compilados regenerables (ver run_all.sh)
+*.npy
+fortran/build1/
+fortran/build2/
+__pycache__/
+*.so

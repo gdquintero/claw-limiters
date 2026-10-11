@@ -1,0 +1,6 @@
+numpy
+sympy
+matplotlib
+meson
+ninja
+clawpack==5.14.0
